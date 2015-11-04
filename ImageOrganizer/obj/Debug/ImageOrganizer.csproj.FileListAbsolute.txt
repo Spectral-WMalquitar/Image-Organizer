@@ -1,0 +1,18 @@
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\bin\Debug\ImageOrganizer.exe.config
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\bin\Debug\ImageOrganizer.exe
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\bin\Debug\ImageOrganizer.pdb
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.csprojResolveAssemblyReference.cache
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.Form1.resources
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.Properties.Resources.resources
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.csproj.GenerateResource.Cache
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.exe
+c:\users\power\documents\visual studio 2012\Projects\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.pdb
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\bin\Debug\ImageOrganizer.exe.config
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.exe
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.pdb
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\bin\Debug\ImageOrganizer.exe
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\bin\Debug\ImageOrganizer.pdb
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.csprojResolveAssemblyReference.cache
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.Form1.resources
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.Properties.Resources.resources
+C:\Users\Mendoza\Desktop\ImageOrganizer\ImageOrganizer\obj\Debug\ImageOrganizer.csproj.GenerateResource.Cache
